@@ -4,10 +4,10 @@ Python application to generate NFT's using PIL module.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pillow.
 
 ```bash
-pip install -r requirements.txt
+pip install Pillow
 ```
 
 ## Usage
